@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "executed_code_cells": 10,
+  "figures": 3,
+  "quality_contracts_passed": 16,
+  "fresh_kernel": true,
+  "python_executable": "python.exe"
+}

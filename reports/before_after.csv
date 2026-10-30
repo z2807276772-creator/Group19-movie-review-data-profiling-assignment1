@@ -1,0 +1,9 @@
+metric,before,after
+Review rows,327,327
+Missing ratings (retained honestly),8,8
+Missing required title/text,0,0
+Unresolved IMDb IDs,143,143
+Nonmissing invalid ratings,0,0
+Known user identifiers exposed in analytical export,319,0
+Text/title rows matching screened email/URL patterns,0,0
+Length flags (retained),22,22

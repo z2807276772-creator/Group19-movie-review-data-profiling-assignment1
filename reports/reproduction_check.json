@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "source_archive_present_initially": false,
+  "automatic_download_verified": true,
+  "selected_source_file_hashes_verified": true,
+  "fresh_kernel_execution": "passed",
+  "all_aggregate_results_identical": true,
+  "source_review_rows": 327,
+  "code_cells_executed": 10,
+  "quality_contracts_passed": 16
+}

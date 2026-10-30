@@ -1,0 +1,309 @@
+{
+  "repository": "https://github.com/SimpliSolve/RecSysData",
+  "commit": "64fa993402e02ee77d210ad507ca33452c95f4f8",
+  "download_url": "https://codeload.github.com/SimpliSolve/RecSysData/zip/64fa993402e02ee77d210ad507ca33452c95f4f8",
+  "retrieved_date": "2026-10-31",
+  "observed_archive_sha256": "cf167afe1af034622c63d8fe3e56e7653109b8fb3e42da6aeb1e8e27aa046feb",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 8098,
+      "sha256": "fb3081a883467881e8d0ff241f3c13b5669dfcfacf1458041a8d77516879be98"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-01.csv",
+      "bytes": 30110,
+      "sha256": "bb8701a9552f239f75c25a6c7975b2592112d9b84f481f9f93fb5d1f1e61a07c"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-02.csv",
+      "bytes": 24067,
+      "sha256": "cfc28acf2b6c4a736ea5156cc24d261a363c88bc196d50a6fd937dac81cf1ea3"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-03.csv",
+      "bytes": 8034,
+      "sha256": "b34fafd6125f4103cfb9985148354883524dacd5627fc4cac8ed54b40387d80c"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-04.csv",
+      "bytes": 13529,
+      "sha256": "ab6a89ed27b66191f92976f671cda1dbf5d31e3ca95d7c1d5154fe4ec4c8bdd4"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-05.csv",
+      "bytes": 7823,
+      "sha256": "8c60e5696babbcd3bf41f504aa7e622922b2287711433e1410026abd19d64967"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-06.csv",
+      "bytes": 6092,
+      "sha256": "2eb0558f75a0eaa52e47224f349f8c1fe32005c0ae7a11b37049f0e7e5c862aa"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-07.csv",
+      "bytes": 36071,
+      "sha256": "fbdd3495e31ff204c5d5ccf16def22912e8edd610666c17e25cdade9c6cc072b"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-08.csv",
+      "bytes": 29155,
+      "sha256": "45cd9aa4e63085fded146f2d9b8ab39608bb54e9123f9f9575f3b4e04bb5b52e"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-10.csv",
+      "bytes": 4440,
+      "sha256": "5063e0f6ab956f1702c984cb0c841027e5e79341a35bae703ed859744574638f"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-11.csv",
+      "bytes": 14312,
+      "sha256": "0807e491aee1bee21d4bf2aaf6acc7a1c7704fd7237e0ff58bfd8d436e8e2c4b"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-12.csv",
+      "bytes": 5281,
+      "sha256": "8d5c1cabb9d7210892b1e4a69d27d91f9b447ddecd4c796006bae50bec23e249"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-13.csv",
+      "bytes": 22520,
+      "sha256": "4b2e90f12f44c56c62980f1cbd7a7ea4fcb79b1ed7b3006b6ab9ae62ebbd0020"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-14.csv",
+      "bytes": 12406,
+      "sha256": "1f0d42f8a1f273d23cfa240aa10da5cd46eaf01fa037bf827f163deb6d3772be"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-15.csv",
+      "bytes": 13773,
+      "sha256": "b9a1270f1ff647ab995619573f8eca5e839bd53f9c8fe3ff28031cd4e8f53a03"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-16.csv",
+      "bytes": 10021,
+      "sha256": "7399a23499c930addb0e379de2618883c2e94fbc14390c903fb2b6abe4fbf12d"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-17.csv",
+      "bytes": 16486,
+      "sha256": "b00e27dea00a11fd8f360da9b2295e983d189833c5e6e6183cfe2c1b00676c01"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-18.csv",
+      "bytes": 6819,
+      "sha256": "27f6eb32acdbe063a63e5e09d03426711767fe60f01983afff9533a45f1a2575"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-21.csv",
+      "bytes": 7752,
+      "sha256": "866df6b7665df466a8c652b8c6e45d491dc4a84b607336db83f9d0cbd9d7217f"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-22.csv",
+      "bytes": 3541,
+      "sha256": "eb190db82c34241e554d1211c7bfa87693792f5c9a13a77a8b0f765e70b95749"
+    },
+    {
+      "path": "daily_csvs/imdb_movies_2020-01-23.csv",
+      "bytes": 9355,
+      "sha256": "4051e3d9c12b29db6e3eabab0cae0cc6862c44cbe8c5d5053bf7e0efbb3d18b2"
+    },
+    {
+      "path": "user_review_data_daily_search/A Worm in the Heart/A Worm in the Heart_page_1.csv",
+      "bytes": 813,
+      "sha256": "b9f24bcaa6c494992d6fa1b1c5531599fede8b807fb406578daa24200fd2a1e6"
+    },
+    {
+      "path": "user_review_data_daily_search/Ali's Comeback/Ali's Comeback_page_1.csv",
+      "bytes": 360,
+      "sha256": "1ab2a46b823da1b52997ac22f83e26fa40cbd66bfed1887eba15b7170fae0c65"
+    },
+    {
+      "path": "user_review_data_daily_search/Back to Chernobyl/Back to Chernobyl_page_1.csv",
+      "bytes": 1452,
+      "sha256": "2a88096c3102143069d325550a126b60821ae65c61ea6d76836fb6b3c909adec"
+    },
+    {
+      "path": "user_review_data_daily_search/Battle of Little Bighorn/Battle of Little Bighorn_page_1.csv",
+      "bytes": 1394,
+      "sha256": "841d3ecd893294e1acc66a7535a9666ad73ebde87e59f6bfc88105ebe2c1e25b"
+    },
+    {
+      "path": "user_review_data_daily_search/Better/Better_page_1.csv",
+      "bytes": 11570,
+      "sha256": "98032d0df7b7f5bc115f62c2cd1ef972ea826bdbe211a568af1639dae08d7358"
+    },
+    {
+      "path": "user_review_data_daily_search/Bone Detectives Britain's Buried Secrets/Bone Detectives Britain's Buried Secrets_page_1.csv",
+      "bytes": 5671,
+      "sha256": "191a415aeb42f29a81bf9f5519840afee387b142efe755c7199d02d3748563c1"
+    },
+    {
+      "path": "user_review_data_daily_search/Cannabis vs. Cancer/Cannabis vs. Cancer_page_1.csv",
+      "bytes": 2866,
+      "sha256": "5b079e007de2a9e7755d95d9a00e51d01f087bc756e594ed3d63942c8f35dff6"
+    },
+    {
+      "path": "user_review_data_daily_search/Charlie Chaplin, le g\u00e9nie de la libert\u00e9/Charlie Chaplin, le g\u00e9nie de la libert\u00e9_page_1.csv",
+      "bytes": 314,
+      "sha256": "0e83a8dfcf58fb296ae195e9f9ba5560f87aeb66cc4c60f2aaacc073e06237a7"
+    },
+    {
+      "path": "user_review_data_daily_search/Cheer/Cheer_page_1.csv",
+      "bytes": 25200,
+      "sha256": "54c19ca131510f0db94b2e1979772aa1cd312947c163ddb30aff1a76d0e538bd"
+    },
+    {
+      "path": "user_review_data_daily_search/Couch Connections/Couch Connections_page_1.csv",
+      "bytes": 7248,
+      "sha256": "e57a79839add6b5f2ce15741a3596e11bf6146ce804e3f8a655403e0ddb69e3b"
+    },
+    {
+      "path": "user_review_data_daily_search/Crip Camp/Crip Camp_page_1.csv",
+      "bytes": 27906,
+      "sha256": "fef92a386db3a86ea75a4414be9a1566b80654631bfa0687a1a9178d1fc14470"
+    },
+    {
+      "path": "user_review_data_daily_search/Cryptopia Bitcoin, Blockchains and the Future of the Internet/Cryptopia Bitcoin, Blockchains and the Future of the Internet_page_1.csv",
+      "bytes": 12668,
+      "sha256": "920de7cfd694bc57a60317e30ac20c3d2a66fef19a162140abb54f90af95638d"
+    },
+    {
+      "path": "user_review_data_daily_search/Days of Rage the Rolling Stones' Road to Altamont/Days of Rage the Rolling Stones' Road to Altamont_page_1.csv",
+      "bytes": 2569,
+      "sha256": "fdaee41c4d81486c3389ae01e9cc7a6309258c864863f680be907ad9620e069f"
+    },
+    {
+      "path": "user_review_data_daily_search/Fred J\u00fcssi. The Beauty of Being/Fred J\u00fcssi. The Beauty of Being_page_1.csv",
+      "bytes": 2567,
+      "sha256": "196042e880a26de636b972ad882b56de9d9a501da2221e7b4a4507631d84e876"
+    },
+    {
+      "path": "user_review_data_daily_search/Ghost Adventures Screaming Room/Ghost Adventures Screaming Room_page_1.csv",
+      "bytes": 2748,
+      "sha256": "3f2a76325f9938f228b405db035ff1f9678e36d26356de3fe57707c22b9f0b83"
+    },
+    {
+      "path": "user_review_data_daily_search/Heroes/Heroes_page_1.csv",
+      "bytes": 3871,
+      "sha256": "c6b24e850c09f3d8f2f31fe12012d3ae3f4a1e6aec228ddda05db60bdb908431"
+    },
+    {
+      "path": "user_review_data_daily_search/Holy Silence/Holy Silence_page_1.csv",
+      "bytes": 4776,
+      "sha256": "f6c99f9dd40b835397efc8181f5da9205ca0d47750a7dff7e9230be9934cd963"
+    },
+    {
+      "path": "user_review_data_daily_search/In Search of Dracula with Mark Gatiss/In Search of Dracula with Mark Gatiss_page_1.csv",
+      "bytes": 828,
+      "sha256": "c9a0a802ea60b419e7de2fe57525c98741fcfcdaba12b8929dd7c738cd8c7146"
+    },
+    {
+      "path": "user_review_data_daily_search/James May Our Man in/James May Our Man in_page_1.csv",
+      "bytes": 16472,
+      "sha256": "d6d01fd0ff27cf8481c5f27b761f3f10efe9b7fa10e262fd24af9c55f953b337"
+    },
+    {
+      "path": "user_review_data_daily_search/Louis Theroux Selling Sex/Louis Theroux Selling Sex_page_1.csv",
+      "bytes": 4205,
+      "sha256": "c3c7c3f302577bf81e5dd38ec97d40abcf107ba0ef08855a281491566f376c53"
+    },
+    {
+      "path": "user_review_data_daily_search/Mars One Day on the Red Planet/Mars One Day on the Red Planet_page_1.csv",
+      "bytes": 10938,
+      "sha256": "7a2fd787073b3edd7021d95d678a8a25e882ab240c51f09eb4aef082be18f1fa"
+    },
+    {
+      "path": "user_review_data_daily_search/Project Blue Book Exposed/Project Blue Book Exposed_page_1.csv",
+      "bytes": 1267,
+      "sha256": "4f44bf89022a2f3693f16afa87d8da667e3783ce95000d829b0a3a0201283804"
+    },
+    {
+      "path": "user_review_data_daily_search/Rescue Me International/Rescue Me International_page_1.csv",
+      "bytes": 1233,
+      "sha256": "2414c456d3397076a223d9ed69b5743e1e466ae91b78b183b9613f89801cbea0"
+    },
+    {
+      "path": "user_review_data_daily_search/Richard Hammond's Big!/Richard Hammond's Big!_page_1.csv",
+      "bytes": 5839,
+      "sha256": "3f49129ad8a45d7d75f581d08299302b179da72b7c8b21871ebb01c3fcd21984"
+    },
+    {
+      "path": "user_review_data_daily_search/Sergio Mendes in the Key of Joy/Sergio Mendes in the Key of Joy_page_1.csv",
+      "bytes": 491,
+      "sha256": "7773d4545585f2fb27eb9b37addedb2753e918aefbcc251898ecadd06d5f3df7"
+    },
+    {
+      "path": "user_review_data_daily_search/Taking Back the Legislature/Taking Back the Legislature_page_1.csv",
+      "bytes": 1351,
+      "sha256": "672db5b187e3796bf44f7b961b965e51c5fa54b4ca4644f44c6aa526238d1b48"
+    },
+    {
+      "path": "user_review_data_daily_search/The End of Quantum Reality/The End of Quantum Reality_page_1.csv",
+      "bytes": 4709,
+      "sha256": "a088f9f369319201a25bbf8607161c40b830e6e1299525b9e70e19f024d88fdb"
+    },
+    {
+      "path": "user_review_data_daily_search/The Forgotten War/The Forgotten War_page_1.csv",
+      "bytes": 996,
+      "sha256": "0ce2974d278b3b7cc323475d4ccd9cea56824d7269af52ddcbe49605ca5c56ab"
+    },
+    {
+      "path": "user_review_data_daily_search/The Invisible Class/The Invisible Class_page_1.csv",
+      "bytes": 7418,
+      "sha256": "0f5f4285f03499ed87f53d41788338da21306a6d77917f88e8e5d5c65b88fef8"
+    },
+    {
+      "path": "user_review_data_daily_search/The Last Apostle Journies in the Holy Land/The Last Apostle Journies in the Holy Land_page_1.csv",
+      "bytes": 2050,
+      "sha256": "c1e12ab2938d3083ceb5c3425a2a827d4b2d7ed23264999fc4ff134b322b6e9e"
+    },
+    {
+      "path": "user_review_data_daily_search/The ParaPod A Very British Ghost Hunt/The ParaPod A Very British Ghost Hunt_page_1.csv",
+      "bytes": 24264,
+      "sha256": "2224c01c3c5379c482b643f25d5d9eca5c42a43bdbbe31e0fc7b1f88af803fcd"
+    },
+    {
+      "path": "user_review_data_daily_search/The Self Portrait/The Self Portrait_page_1.csv",
+      "bytes": 2597,
+      "sha256": "0cf2f621f84aea681916189bf42741c639456506fd2cf7c89772b32a41feb30c"
+    },
+    {
+      "path": "user_review_data_daily_search/Tony Robinson's History of Britain/Tony Robinson's History of Britain_page_1.csv",
+      "bytes": 2576,
+      "sha256": "326066d695544e3185afd28d593a3e469b140cf534c1a15c2476f761b6e92477"
+    },
+    {
+      "path": "user_review_data_daily_search/True Life Crime/True Life Crime_page_1.csv",
+      "bytes": 6559,
+      "sha256": "2abca87adb787cca04c883bb6536b23e7097b967ddad312beb7b75db7041a156"
+    },
+    {
+      "path": "user_review_data_daily_search/Uppity The Willy T. Ribbs Story/Uppity The Willy T. Ribbs Story_page_1.csv",
+      "bytes": 13376,
+      "sha256": "911582ba4d85f88f20ef92b4c08c1d6d3ee6b2ebb99442b21423e1cb18ca7110"
+    },
+    {
+      "path": "user_review_data_daily_search/VHS Massacre Too/VHS Massacre Too_page_1.csv",
+      "bytes": 3250,
+      "sha256": "0d66217bc714674aca8874bdaa2efda7985a780300b7cf091f15ee99c6fb1a70"
+    },
+    {
+      "path": "user_review_data_daily_search/Viva the Underdogs/Viva the Underdogs_page_1.csv",
+      "bytes": 2446,
+      "sha256": "c2be9fddcbb6e3bd74585ce1b60d96f10aeda614ec5efd46f02d1e47adb45fd2"
+    },
+    {
+      "path": "user_review_data_daily_search/Why We Cycle/Why We Cycle_page_1.csv",
+      "bytes": 1362,
+      "sha256": "60c7124fdd188abe60e9b155f9255b46e86aa8241dd1a2fc28710af6f3bdf8b6"
+    },
+    {
+      "path": "user_review_data_daily_search/Wild Karnataka/Wild Karnataka_page_1.csv",
+      "bytes": 11076,
+      "sha256": "b3292ae6c4f7c3c31233641d3946eebe5b4c2e5089a4c7d7f4c6f8634b54759a"
+    }
+  ]
+}
